@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/Berserker_II.webp",
+      "title": "Berserker_II"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/Bile_Spewer_II.webp",
+      "title": "Bile_Spewer_II"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/Bile_Titan_II.webp",
+      "title": "Bile_Titan_II",
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/Brood_Commander_II.webp",
+      "title": "Brood_Commander_II"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/Charger_II.webp",
+      "title": "Charger_II"
+
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/Commissar_II.webp",
+      "title": "Commissar_II"
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/Devastator_II.webp",
+      "title": "Devastator_II"
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/Dropship_II.webp",
+      "title": "Dropship_II"
+
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/Hulk_II.webp",
+      "title": "Hulk_II"
+
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/keith-haring-best-buddies-1989.png",
+
+      "title": "Best Buddies",
+
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/Hunter_II.webp",
+      "title": "Hunter_II"
+
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/Scavenger_II.webp",
+      "title": "Scavenger_II"
+
+    },
+    {
+      "id": 13,
+      "image": "/assets/images/Scout_Strider_II.webp",
+      "title": "Scout_Strider_II"
+
+    },
+    {
+      "id": 14,
+      "image": "/assets/images/Stalker_II.webp",
+      "title": "Stalker_II.webp"
+
+    },
+    {
+      "id": 15,
+      "image": "/assets/images/Tank_II.webp",
+      "title": "tank_II."
+
+    },
+    {
+      "id": 16,
+      "image": "/assets/images/Trooper2CMarauder_II.webp",
+      "title": "Trooper2CMarauder_II"
+
+    }
+  ]
