@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import enemies from "./cards.json";
-import Scoreboard from "./components/Scoreboard";
-import Card from "./components/Card";
+import Scoreboard from "./components/score.jsx";
+import Card from "./components/ImgCard.jsx";
 
 // shuffle upon each click
 function shuffle(array) {
